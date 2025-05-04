@@ -4,7 +4,13 @@
   Python-разработчик | Data Science | Backend | Боты | Unity & Vulkan | Автоматизация
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunisLinus&theme=light&hide_border=true" />
+</p>
+
 ---
+
 
 <h2 align="center">🧰 Стек технологий</h2>
 
